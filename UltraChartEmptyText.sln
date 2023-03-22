@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32901.82
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UltraChartEmptyText", "UltraChartEmptyText\UltraChartEmptyText.csproj", "{17D834E7-8190-494D-83D2-142C3C9042CF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{17D834E7-8190-494D-83D2-142C3C9042CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17D834E7-8190-494D-83D2-142C3C9042CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17D834E7-8190-494D-83D2-142C3C9042CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17D834E7-8190-494D-83D2-142C3C9042CF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CF3298A4-26B6-408C-86E1-5971DFCA54B3}
+	EndGlobalSection
+EndGlobal
